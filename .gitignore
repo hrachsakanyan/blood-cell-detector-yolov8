@@ -1,0 +1,34 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Secrets and local configuration
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Datasets and training output
+datasets/
+data/
+BCCD_Dataset-master/
+bccd_raw/
+bccd_yolo/
+runs/
+*.zip
+*.cache
+
+# Model files: only the trained weights used by the app are tracked
+*.pt
+*.onnx
+!models/best.pt
+
+# Editors, OS and temporary files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
