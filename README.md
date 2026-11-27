@@ -1,4 +1,4 @@
-# Blood Cell Detector 
+# Blood Cell Detector
 
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Ultralytics YOLOv8](https://img.shields.io/badge/Ultralytics-YOLOv8n-111F68)](https://github.com/ultralytics/ultralytics)
